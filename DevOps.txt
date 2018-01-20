@@ -1,0 +1,24 @@
+CI CD Pipeline
+CI - Continuous Integration
+    Build and testing
+CD - Continuous Delivery - definition, design, development, build, automated testing and deployment all forming parts of the pipe
+    what happens post build and Delivery
+    feedback loop is short
+    smaller more frequent releases
+    testing occurs early.
+    shift left - fix the bugs before moving forward
+    increase productivity
+
+
+Benefit of continuous Development
+  Merging all developer working copies to main repo
+  Automate the build
+    everyone commits everyday
+    every commit is a build
+    fast build
+    test in a clone of prod env.
+  Automate the testing
+  Automate the deployment
+
+  Continuous Delivery
+    Produce software in short cycle and deliver to Prod
